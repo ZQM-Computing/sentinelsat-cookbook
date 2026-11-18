@@ -35,6 +35,8 @@ Earth-observation practitioners who fetch Sentinel imagery programmatically.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-search` | Searching the catalog by footprint and date |
